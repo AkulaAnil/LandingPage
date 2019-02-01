@@ -1,0 +1,17 @@
+body {
+	width: 100%;
+	font-family: Lato, sans-serif;
+}
+
+.row {
+	width: 19%;
+	padding: 5%;
+	margin: 2%;
+	background-color: lightgreen;
+	color: black;
+	float: left;
+}
+
+h1 {
+	color: orangered;
+}
